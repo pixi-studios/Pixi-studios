@@ -5,7 +5,7 @@ html, body {
       padding: 0;
       width: 100%;
       height: 100%;
-      font-family: "Roboto Mono" !important;
+      font-family: "Straphanger" !important;
       background: #0f0f0f !important;
       color: #fff !important;
 }
@@ -306,7 +306,7 @@ h6 {
 
 .project1::after {
       content: "The Foundation";
-      font-family: "Roboto Mono";
+      font-family: "Straphanger";
       font-size: 36px;
       position: relative;
       color: #fff;
@@ -324,7 +324,7 @@ h6 {
 
 .project2::after {
       content: "foretime.";
-      font-family: "Roboto Mono";
+      font-family: "Straphanger";
       font-size: 36px;
       position: relative;
       color: #fff;
@@ -342,7 +342,7 @@ h6 {
 
 .project3::after {
       content: "never again.";
-      font-family: "Roboto Mono";
+      font-family: "Straphanger";
       font-size: 36px;
       position: relative;
       color: #fff;
@@ -360,7 +360,7 @@ h6 {
 
 .project4::after {
       content: "departure.";
-      font-family: "Roboto Mono";
+      font-family: "Straphanger";
       font-size: 36px;
       position: relative;
       color: #fff;
